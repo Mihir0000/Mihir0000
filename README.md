@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at MAKAUT University.
 - 🌱 I'm currently learning full stack development.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihir-baidya-045b23192/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihir-baidya/)
