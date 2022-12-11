@@ -2,8 +2,6 @@
 
 <h2 align="center">A passionate computer science student from India</h2>
 
-<br />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mihir0000&color=green">
 </p>
@@ -29,7 +27,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br /><br />
+<br />
 
 <p align="center">
   <img
@@ -69,9 +67,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihir0000&show_icons=true&theme=algolia&include_all_commit=true&count_private=true" alt="MihirBaidya" width="60%" /></p>
 
-<br />
 <hr />
-<br />
 
 <h2 align="center">
   <img
@@ -81,11 +77,10 @@
 </h2>
 <br />
 
-<br />
 <img
   src="https://github-profile-trophy.vercel.app/?username=Mihir0000&theme=juicyfresh&no-bg=true"
 />
 <br />
-<br />
+
 <Hr/><br />
 <h3 align="center"> Made with ❤️ by Mihir</h3>
