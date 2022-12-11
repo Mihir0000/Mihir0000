@@ -1,12 +1,14 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="50">,   I'm Mihir Baidya</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="50">,   I'm  <strong><em><code>Mihir Baidya</code></em></strong></h1>
 
-<h2 align="center">A passionate computer science student from India</h2>
+<h2 align="center">A passionate computer science student from <strong><em><code>India</code></em></strong></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mihir0000&color=green">
 </p>
 
 <br />
+
+## _`Used Technology & Tools`_
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -82,5 +84,5 @@
 />
 <br />
 
-<Hr/><br />
+<Hr/>
 <h3 align="center"> Made with ❤️ by Mihir</h3>
